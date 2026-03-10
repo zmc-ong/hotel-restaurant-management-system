@@ -1,7 +1,7 @@
 ## Hotel and Restaurant Management System
 
 ### 📝 Description
-A console-based Hotel and Restaurant Management System developed for my Computer Programming 1 course. It implements complete CRUD operations using Java file handling to manage customer records, restaurant orders, and billing processes.
+A console-based Hotel and Restaurant Management System developed for Computer Programming 1. It implements complete CRUD operations using Java file handling to manage customer records, restaurant orders, and billing processes.
 
 ### 🚀 Features
 - 👥 **Customer Records Management** - Create, update and view records
